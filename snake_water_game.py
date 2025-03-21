@@ -1,4 +1,4 @@
-# PROJECT 1 ---------- SNAKE WATER GUN GAME ----------------------
+#---------- SNAKE WATER GUN GAME ----------------------
 
 '''
 1 for snake
