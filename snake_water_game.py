@@ -1,4 +1,14 @@
 #---------- SNAKE WATER GUN GAME ----------------------
+'''
+snake_water_gun.py
+A simple Snake Water Gun game where the user plays against the computer.
+
+Features:
+✅ User vs Computer gameplay
+✅ Randomized computer choices
+✅ Simple and interactive CLI interface
+
+'''
 
 '''
 1 for snake
@@ -36,4 +46,4 @@ else:
     print("something went wrong")
 
 
-    print(" "*5+ "GAME OVER")
+print("GAME OVER")
